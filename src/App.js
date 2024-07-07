@@ -9,12 +9,7 @@ export default function App() {
         <Weather />
         <footer>
           This project is coded by Madali Navas and is open-sourced on{" "}
-          <a
-            href="https://github.com/Bpmodele/weather-app-react"
-            target="_blank"
-          >
-            GitHub
-          </a>
+          <a href="https://github.com/Bpmodele/weather-app-react">GitHub</a>
         </footer>
       </div>
     </div>
